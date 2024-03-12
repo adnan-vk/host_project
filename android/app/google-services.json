@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "941291144002",
+    "project_id": "book-af8cb",
+    "storage_bucket": "book-af8cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941291144002:android:43b77cdeb506d08d3cbedb",
+        "android_client_info": {
+          "package_name": "in.bridgeon.BookStore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941291144002-5ol3urkeg8hv8l9vsf83r65uak7vshp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO0gQW5M1Pvj3xjtYShpEuws4ZwOCw5nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941291144002-5ol3urkeg8hv8l9vsf83r65uak7vshp8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941291144002-9cocqiqgn08f44scpr7tpquntgt1vp96.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerce.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
